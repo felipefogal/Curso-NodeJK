@@ -1,4 +1,4 @@
 module.exports = function(){
-    var msg = "Este modulo contem apenas uma string";
+    var msg = "Servidor rodando com Express";
     return msg;
 }
